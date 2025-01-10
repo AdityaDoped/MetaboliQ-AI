@@ -2,7 +2,8 @@
 Mavericks for Intel Hackathon 2024
 
 # Video Demonstration and Project
-[MetaboliQ AI](),https://github.com/tabishaliansari/MetaboliQ-AI
+[MetaboliQ AI]()
+https://github.com/tabishaliansari/MetaboliQ-AI
 
 # Contact us -
 [Tabish Ali Ansari](mailto:tabish.ansari004@yahoo.com)  
